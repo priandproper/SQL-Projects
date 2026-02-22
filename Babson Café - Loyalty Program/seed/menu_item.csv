@@ -1,0 +1,16 @@
+item_id,item_name,category,price,cost,is_active
+1,Espresso,Coffee,7.65,1.28,false
+2,Cappuccino,Coffee,8.45,1.36,true
+3,Latte,Coffee,7.64,2.87,false
+4,Americano,Coffee,8.62,2.41,false
+5,Mocha,Coffee,5.34,2.97,false
+6,Hot Chocolate,Other,8.79,2.56,false
+7,Cold Brew,Coffee,7.92,1.55,true
+8,Iced Latte,Coffee,4.54,2.32,false
+9,Croissant,Bakery,7.3,2.87,true
+10,Muffin,Bakery,6.51,2.87,false
+11,Bagel,Bakery,3.88,2.14,false
+12,Sandwich,Bakery,4.71,1.86,true
+13,Cookie,Bakery,6.27,2.06,true
+14,Smoothie,Other,3.16,1.18,false
+15,Tea,Other,3.2,1.4,true

@@ -1,0 +1,401 @@
+order_id,customer_id,employee_id,order_datetime,payment_method,order_channel,coupon_code,campaign_name,points_redeemed,order_total
+1,140,11,45916,card,in-store,,,,14.35
+2,41,5,45924,cash,in-store,,,,18.18
+3,93,4,45913,cash,in-store,,,,12.61
+4,131,1,45952,card,in-store,WELCOME5,,22,11.8
+5,80,4,45936,card,app,,,,4.64
+6,49,6,45915,card,in-store,,,,7.25
+7,79,1,45907,mobile,in-store,,,,17.82
+8,,9,45910,card,in-store,FALL10,,141,6.1
+9,72,5,45920,card,in-store,,,,13.82
+10,8,2,45913,card,in-store,,,,5.09
+11,,3,45917,card,in-store,,,,12.44
+12,137,3,45922,card,in-store,,Morning Boost,,7.43
+13,120,1,45915,card,in-store,,,117,21.13
+14,28,6,45939,card,in-store,,,5,12.18
+15,77,12,45952,card,in-store,,Morning Boost,,21.28
+16,,4,45925,card,app,,,,15.52
+17,72,10,45934,cash,in-store,,,,4.54
+18,,2,45913,cash,in-store,,Morning Boost,,10.67
+19,45,5,45942,card,in-store,WELCOME5,,,14.38
+20,46,9,45945,card,in-store,FALL10,,121,11.46
+21,15,7,45922,card,in-store,,,39,8.14
+22,,1,45911,card,in-store,,,,11.15
+23,,6,45936,card,in-store,,,2,4.93
+24,,1,45933,card,app,,,,8.77
+25,,11,45911,card,in-store,WELCOME5,,73,5.11
+26,115,10,45933,card,in-store,,,29,16.72
+27,51,5,45915,mobile,in-store,,,,21.14
+28,26,7,45945,card,app,WELCOME5,,,14.33
+29,,11,45927,card,in-store,FALL10,Fall Promo,,5.35
+30,110,9,45918,mobile,in-store,,,,20.7
+31,92,8,45913,card,in-store,,,,12.92
+32,,1,45916,card,in-store,,Fall Promo,,5.85
+33,145,8,45911,card,in-store,,,,16.98
+34,147,3,45938,card,in-store,WELCOME5,,,14.43
+35,37,8,45901,mobile,in-store,,Fall Promo,,10.63
+36,,2,45933,mobile,in-store,,,,20.94
+37,6,7,45930,card,in-store,,,,5.82
+38,149,4,45902,card,in-store,,,,17.07
+39,65,7,45941,cash,app,,,39,11.13
+40,117,7,45940,card,in-store,,Welcome Week 2025,,11.71
+41,,10,45912,card,in-store,,,,15.41
+42,135,8,45903,card,in-store,,Morning Boost,,16.83
+43,105,1,45923,mobile,in-store,,,,20.84
+44,41,9,45913,card,in-store,,,,12.46
+45,,4,45915,card,in-store,,,,20.24
+46,40,7,45920,card,in-store,,,83,12.15
+47,38,11,45935,card,in-store,,,3,8.24
+48,34,4,45941,card,in-store,,,110,8.22
+49,,6,45947,card,in-store,,,,7.22
+50,54,4,45903,cash,in-store,,,112,15.56
+51,85,11,45904,card,in-store,,,,16.39
+52,126,9,45907,card,in-store,,,,15.97
+53,60,9,45920,card,in-store,,Fall Promo,141,10.01
+54,116,12,45932,card,app,,,,4.36
+55,,8,45914,card,in-store,WELCOME5,,,11.24
+56,56,4,45929,card,in-store,,,,17.11
+57,21,11,45939,card,in-store,,,73,7.39
+58,22,6,45901,card,in-store,,,,10.61
+59,138,10,45930,card,in-store,,,,20.13
+60,,9,45953,card,in-store,MORNING2OFF,,13,13.53
+61,,3,45924,card,in-store,,Welcome Week 2025,,21.84
+62,,3,45945,mobile,in-store,,,21,13.48
+63,27,3,45912,card,in-store,,,,11.97
+64,90,10,45931,card,in-store,,,,21.18
+65,117,11,45937,card,in-store,,,,13.05
+66,,1,45931,card,app,,,,20.52
+67,,4,45931,card,in-store,WELCOME5,Welcome Week 2025,,20.02
+68,,7,45922,card,in-store,FALL10,,,6.14
+69,,1,45931,card,app,MORNING2OFF,Morning Boost,,20.37
+70,17,6,45942,cash,in-store,,,,5.13
+71,100,11,45926,card,in-store,,,,12.26
+72,135,4,45928,card,in-store,,,,13.45
+73,,8,45952,cash,app,,,22,9.09
+74,54,8,45921,mobile,in-store,,Fall Promo,111,20.04
+75,140,12,45940,cash,in-store,MORNING2OFF,,,18.99
+76,5,8,45920,card,in-store,,,47,17.86
+77,8,4,45953,card,in-store,,,,8.68
+78,99,7,45921,mobile,in-store,,,,6.09
+79,,6,45911,mobile,in-store,,,50,16.38
+80,3,8,45930,card,app,,,112,15.72
+81,,7,45901,mobile,in-store,,,,11.78
+82,44,4,45942,card,in-store,,,,18.77
+83,144,12,45931,mobile,app,FALL10,,,18.7
+84,98,11,45904,card,in-store,,,,8
+85,,4,45919,card,in-store,,,,7.62
+86,88,3,45923,mobile,in-store,FALL10,,,16.64
+87,93,3,45902,card,in-store,,,,10.33
+88,69,11,45916,card,in-store,,,,14.12
+89,90,3,45919,mobile,app,,,,10
+90,,9,45945,card,in-store,,,8,8.29
+91,5,6,45912,card,in-store,WELCOME5,Welcome Week 2025,,21.44
+92,77,7,45937,mobile,in-store,,,,14.49
+93,20,10,45934,card,in-store,,,,18.2
+94,36,6,45932,cash,in-store,,,,19.76
+95,106,6,45906,card,in-store,,,,14.74
+96,107,6,45911,card,in-store,MORNING2OFF,,,13.64
+97,51,3,45922,card,app,,,,5.34
+98,70,12,45937,card,in-store,,,108,13.97
+99,,5,45945,card,in-store,,,,20.45
+100,111,8,45944,card,in-store,,,4,14.5
+101,,8,45923,cash,in-store,,Fall Promo,,7.9
+102,84,1,45929,card,in-store,,,,19.38
+103,127,12,45940,card,in-store,,,,18.46
+104,146,12,45933,card,in-store,,,,4.85
+105,56,9,45942,cash,in-store,MORNING2OFF,,,12.34
+106,92,5,45918,card,app,,,,7.07
+107,,1,45936,mobile,app,,,31,5.42
+108,94,1,45904,card,app,,,,20.74
+109,120,8,45908,card,in-store,,Welcome Week 2025,103,10.5
+110,40,2,45934,cash,in-store,,,,21.89
+111,146,2,45931,card,in-store,,,,18.16
+112,142,1,45944,card,in-store,,,,6.17
+113,50,10,45906,cash,in-store,,,,16.55
+114,121,5,45928,card,in-store,MORNING2OFF,Morning Boost,,17.93
+115,138,2,45912,cash,in-store,,,,15.88
+116,126,10,45938,card,in-store,,,,10.37
+117,,1,45926,card,in-store,,,,16.69
+118,50,8,45916,cash,in-store,,Welcome Week 2025,,19.45
+119,34,4,45904,cash,app,,,,5.28
+120,,4,45931,card,in-store,,Morning Boost,1,17.56
+121,42,4,45923,card,app,,,,16.03
+122,,3,45917,card,in-store,,,,21.88
+123,68,2,45901,mobile,in-store,,,,19.32
+124,61,11,45922,card,in-store,,,,12.09
+125,42,2,45925,cash,in-store,FALL10,,,4.84
+126,33,1,45925,card,in-store,,,2,12.59
+127,,7,45948,mobile,in-store,,,,15.31
+128,76,8,45939,card,in-store,,,38,6.77
+129,,2,45954,cash,in-store,,,,8.77
+130,64,3,45939,mobile,in-store,,,,11.28
+131,133,9,45933,card,in-store,,,57,11.69
+132,,7,45938,mobile,in-store,,,55,20.13
+133,70,5,45944,card,in-store,,,,11.33
+134,25,3,45951,card,in-store,,,133,16.14
+135,96,1,45941,card,in-store,,Morning Boost,,6.01
+136,,2,45947,card,app,,,,10.32
+137,69,10,45929,mobile,app,,,,4.5
+138,106,2,45942,card,in-store,,,,17.85
+139,,3,45908,cash,in-store,,Welcome Week 2025,,15.7
+140,111,3,45922,card,in-store,,,,10.92
+141,54,4,45937,card,in-store,,,,16.88
+142,,1,45944,card,in-store,WELCOME5,,,21.59
+143,57,5,45944,card,app,,,118,11.25
+144,110,6,45926,cash,app,,,,12.24
+145,81,9,45930,card,in-store,,,,9.06
+146,128,8,45928,card,in-store,,,,13.4
+147,86,7,45943,card,app,,,1,11.28
+148,123,8,45917,card,app,,,,21.86
+149,,7,45932,card,in-store,,,,9.18
+150,,6,45911,card,in-store,,,,5.64
+151,61,5,45929,card,in-store,,,,5.85
+152,118,5,45926,card,in-store,,,,6.84
+153,70,8,45952,card,in-store,,,,5.11
+154,67,3,45926,mobile,in-store,WELCOME5,,,10.21
+155,33,2,45919,card,in-store,,,115,14.21
+156,59,7,45905,card,in-store,MORNING2OFF,,40,14.06
+157,55,9,45949,card,in-store,,,,21.91
+158,118,2,45940,mobile,in-store,,,,10.75
+159,76,12,45912,card,in-store,,,,8.25
+160,91,4,45944,cash,in-store,,,37,15.18
+161,67,3,45942,card,app,FALL10,,,9.57
+162,,10,45933,cash,in-store,,,80,9.31
+163,,2,45950,cash,app,,,18,11.19
+164,32,6,45952,card,in-store,,,,21.37
+165,6,1,45937,mobile,in-store,MORNING2OFF,,,15.82
+166,,5,45903,mobile,in-store,,,,7.55
+167,16,3,45926,card,app,,Fall Promo,,10.94
+168,43,11,45938,card,in-store,,Morning Boost,,16.87
+169,19,4,45911,mobile,in-store,,Welcome Week 2025,,18.78
+170,,12,45919,card,in-store,,,,13.69
+171,,7,45951,card,in-store,,,52,18.35
+172,109,12,45944,card,in-store,,,,15.8
+173,46,5,45919,cash,in-store,,,,19.98
+174,120,4,45939,card,in-store,,,,7.54
+175,,3,45952,mobile,in-store,,,,10.66
+176,,3,45906,cash,in-store,FALL10,,,20.73
+177,55,10,45938,mobile,in-store,,,,20.43
+178,125,6,45913,card,in-store,,,,17.67
+179,102,1,45919,cash,in-store,,,,16.36
+180,20,7,45907,card,in-store,,Morning Boost,,6.91
+181,68,3,45948,card,in-store,,Welcome Week 2025,22,5.59
+182,,3,45937,mobile,in-store,,,,11.3
+183,69,12,45938,cash,in-store,,Morning Boost,,13.98
+184,,1,45911,card,in-store,,,,4.57
+185,,8,45934,cash,in-store,,,,10.14
+186,61,9,45954,card,in-store,,,,4.7
+187,,10,45903,card,in-store,,,,13.67
+188,46,12,45942,cash,in-store,FALL10,,,16.19
+189,38,11,45921,card,in-store,,,,18.84
+190,51,1,45942,card,in-store,,Welcome Week 2025,,12.85
+191,149,8,45953,mobile,in-store,,,,5.6
+192,67,6,45941,card,in-store,,,,12.9
+193,69,6,45941,mobile,in-store,,,,5.46
+194,20,9,45952,cash,in-store,,,144,16.39
+195,,9,45924,cash,in-store,MORNING2OFF,Morning Boost,,19.89
+196,148,12,45939,mobile,in-store,,,,8.93
+197,129,3,45915,card,in-store,,,,15.43
+198,149,8,45944,card,in-store,,,,8.93
+199,25,7,45904,card,in-store,,,,20.8
+200,71,10,45927,card,in-store,,Fall Promo,3,17.37
+201,45,5,45902,card,in-store,,,,9.97
+202,,3,45943,cash,in-store,,,,9.81
+203,,8,45903,card,in-store,,,,18.72
+204,,6,45948,card,in-store,MORNING2OFF,,,4.76
+205,30,12,45924,cash,app,,,,10.54
+206,74,8,45906,cash,in-store,,,4,5.12
+207,,9,45954,card,in-store,,,,6.25
+208,95,11,45901,card,app,,,,5.58
+209,12,12,45935,cash,in-store,,,,18.69
+210,37,9,45939,card,in-store,MORNING2OFF,,22,4.9
+211,109,5,45931,card,in-store,,,,11.72
+212,45,5,45902,card,app,,,,15.59
+213,122,11,45918,card,app,MORNING2OFF,,,8.91
+214,23,12,45909,mobile,in-store,,,,15.75
+215,66,11,45903,card,in-store,,,,5.68
+216,,10,45951,card,in-store,,,,20.04
+217,90,6,45902,card,in-store,,,47,9.68
+218,27,2,45925,card,in-store,,,,8.22
+219,19,11,45944,cash,in-store,,Morning Boost,85,10.93
+220,140,10,45944,mobile,in-store,,,,16.91
+221,135,12,45914,card,in-store,,Fall Promo,,8.17
+222,,4,45917,mobile,in-store,,,118,10.37
+223,150,5,45925,card,app,WELCOME5,,41,12.43
+224,73,1,45950,card,in-store,,,,19.53
+225,71,10,45941,cash,in-store,,,11,10.28
+226,,3,45901,cash,in-store,,,,8.32
+227,26,10,45927,card,in-store,,,,7.86
+228,113,1,45928,card,app,,,,18.1
+229,,3,45909,mobile,app,,,,12.33
+230,125,9,45913,card,in-store,,,,11.66
+231,139,8,45936,cash,app,,,,4.45
+232,56,8,45918,card,in-store,WELCOME5,,,18.72
+233,123,6,45938,cash,in-store,,,,14.6
+234,117,8,45947,card,in-store,,,,16.68
+235,131,1,45950,card,in-store,,,,14.53
+236,136,11,45940,card,in-store,,,,9.17
+237,11,2,45913,card,in-store,,Morning Boost,19,7.96
+238,,8,45917,mobile,in-store,,,61,5.72
+239,92,6,45933,card,in-store,,Fall Promo,,20.49
+240,41,1,45949,cash,in-store,,,,6.79
+241,84,6,45948,cash,in-store,,Welcome Week 2025,,7.31
+242,91,6,45926,card,in-store,FALL10,Fall Promo,,9.27
+243,,12,45902,card,in-store,,,,11.42
+244,,5,45912,card,in-store,,,,11.92
+245,115,12,45917,card,in-store,,,,11.86
+246,141,5,45925,card,in-store,,,94,5.38
+247,18,4,45914,card,in-store,,,12,21.47
+248,41,3,45931,card,app,,,,8.52
+249,108,11,45949,card,in-store,,,,11.85
+250,54,3,45922,card,in-store,WELCOME5,,26,11.72
+251,101,10,45912,card,app,,,75,19.53
+252,34,2,45949,mobile,in-store,,Morning Boost,,5.5
+253,,12,45907,card,in-store,,,,10.65
+254,55,10,45941,cash,in-store,,,,4.52
+255,59,3,45914,cash,in-store,,,67,4.56
+256,25,5,45922,card,in-store,,,,13.51
+257,74,6,45929,card,in-store,,,,6.37
+258,73,5,45947,card,in-store,,,,5.05
+259,5,7,45953,mobile,in-store,WELCOME5,,,12.5
+260,115,10,45927,card,app,FALL10,,,17.56
+261,,8,45952,card,in-store,MORNING2OFF,,,17.25
+262,62,11,45937,card,in-store,,,,16.59
+263,132,5,45916,card,in-store,,,,4.9
+264,124,10,45916,card,in-store,,,,20.07
+265,,4,45927,card,in-store,,,,21.51
+266,102,9,45936,card,in-store,,,,15.49
+267,114,6,45919,mobile,in-store,,,,17.79
+268,40,11,45921,card,in-store,,,,5.65
+269,141,1,45932,card,in-store,FALL10,,134,18.32
+270,84,7,45953,card,in-store,,,,17.47
+271,79,9,45951,card,in-store,WELCOME5,,,19.78
+272,,10,45951,cash,in-store,,,,19.24
+273,56,3,45925,card,in-store,,Morning Boost,,12.86
+274,65,1,45934,card,in-store,WELCOME5,,64,6.86
+275,,7,45911,card,in-store,,,,11.77
+276,76,5,45921,card,in-store,,Morning Boost,,12.77
+277,138,6,45913,card,app,,,,6.42
+278,104,3,45907,card,in-store,,,,9.01
+279,137,11,45952,cash,in-store,,,,7.31
+280,131,2,45923,card,in-store,,,88,14.84
+281,42,2,45953,cash,in-store,,,,17.25
+282,46,4,45933,card,in-store,,,,6.11
+283,53,2,45911,mobile,in-store,,Welcome Week 2025,125,18.91
+284,36,10,45934,mobile,in-store,,,,10.49
+285,38,4,45934,card,in-store,,,,6.8
+286,42,8,45939,card,in-store,,,,15.68
+287,86,4,45917,mobile,in-store,,,,18.3
+288,,2,45910,cash,in-store,MORNING2OFF,Morning Boost,21,14.61
+289,67,10,45945,card,in-store,,,,13.68
+290,44,4,45903,cash,in-store,,,,8.91
+291,58,1,45926,card,in-store,MORNING2OFF,,,9.05
+292,84,3,45938,card,in-store,,,,20.39
+293,129,9,45909,card,in-store,,,,8.32
+294,,9,45933,card,in-store,,,,14.95
+295,107,1,45914,card,app,,Welcome Week 2025,42,5.83
+296,107,8,45908,card,in-store,,,,21.2
+297,59,7,45903,mobile,in-store,,,,19.18
+298,,11,45913,card,in-store,,,,19.34
+299,74,10,45931,card,in-store,FALL10,,,7.32
+300,53,7,45912,card,in-store,,,,17.26
+301,,1,45905,cash,in-store,,,42,19.5
+302,,2,45934,card,in-store,,,,18.98
+303,22,8,45932,card,in-store,,,,9.35
+304,117,4,45933,card,in-store,,,102,5
+305,78,7,45918,card,in-store,FALL10,,97,16.26
+306,140,7,45919,card,in-store,,,2,12.08
+307,128,6,45946,card,in-store,,,,15.71
+308,,8,45930,card,in-store,,,21,19.46
+309,76,7,45936,card,in-store,,Morning Boost,86,16.87
+310,34,2,45921,cash,app,,,,20.21
+311,,10,45942,card,in-store,,,,15.03
+312,89,12,45906,cash,in-store,,,20,6.1
+313,115,2,45953,card,in-store,,Welcome Week 2025,42,6.33
+314,22,6,45936,card,in-store,,Fall Promo,,5.35
+315,46,4,45933,cash,in-store,MORNING2OFF,,34,10.72
+316,144,11,45932,card,in-store,,,26,12.55
+317,,8,45948,card,in-store,,Fall Promo,,8.39
+318,89,11,45949,mobile,in-store,,,,7.52
+319,91,8,45924,card,in-store,,,147,16.92
+320,46,11,45906,card,in-store,,,,4.09
+321,128,7,45903,cash,in-store,,,,5.95
+322,73,7,45932,card,in-store,,,,13.79
+323,107,10,45945,card,in-store,,Fall Promo,47,8.14
+324,,1,45918,card,in-store,,,,15.63
+325,136,7,45927,card,in-store,,,,7.02
+326,,1,45927,mobile,app,,,,14.34
+327,74,2,45943,card,in-store,,,,6.54
+328,88,11,45927,card,in-store,,,10,7.89
+329,,11,45938,card,app,,Fall Promo,6,20.2
+330,80,12,45954,card,in-store,,Morning Boost,128,8.73
+331,85,10,45902,card,in-store,,Welcome Week 2025,,9.88
+332,73,2,45906,cash,in-store,,,108,9.07
+333,83,5,45935,cash,in-store,,,104,17.24
+334,107,1,45902,card,in-store,,,,13.2
+335,74,1,45929,card,in-store,FALL10,,,15.5
+336,123,5,45943,card,in-store,,,,8.32
+337,85,3,45901,card,in-store,,,,11.68
+338,5,6,45909,card,in-store,,,,4.99
+339,49,3,45923,card,in-store,,,121,7.02
+340,120,2,45902,card,in-store,,,,4.41
+341,46,1,45918,cash,in-store,,,58,8.39
+342,76,1,45903,cash,in-store,,,118,20.14
+343,149,5,45931,card,in-store,,Welcome Week 2025,106,12.71
+344,102,3,45926,cash,in-store,,Fall Promo,,4.8
+345,46,12,45906,card,in-store,,,,8.83
+346,11,4,45947,mobile,in-store,,,,4.99
+347,37,11,45928,card,in-store,,,18,6.36
+348,,3,45944,card,in-store,MORNING2OFF,,106,13.42
+349,75,6,45915,card,in-store,,,5,16.02
+350,41,8,45926,card,in-store,,,,16.6
+351,,8,45951,card,app,,,140,6.69
+352,118,5,45911,card,in-store,WELCOME5,,,17.7
+353,81,10,45932,card,in-store,,Fall Promo,,11.49
+354,48,1,45945,card,in-store,,,69,7.99
+355,29,7,45951,mobile,in-store,,,,12.9
+356,26,4,45903,cash,in-store,,,,9.41
+357,98,12,45941,mobile,in-store,,,,8.97
+358,2,8,45950,card,in-store,,,,15.96
+359,116,9,45942,card,in-store,FALL10,,,15.66
+360,1,9,45913,card,in-store,,,,7.46
+361,122,7,45926,card,in-store,,,117,13.3
+362,59,4,45939,mobile,in-store,,,,14.79
+363,136,5,45939,cash,in-store,,,,10.08
+364,42,7,45910,card,in-store,,Welcome Week 2025,34,16.07
+365,139,3,45926,mobile,in-store,,,,20.01
+366,24,1,45908,card,in-store,,Morning Boost,,19.81
+367,136,12,45905,card,app,,,,10.08
+368,97,5,45927,cash,in-store,,,7,16.16
+369,135,12,45905,card,in-store,,,45,21.42
+370,74,10,45947,card,in-store,,,,9.04
+371,11,2,45922,card,in-store,,,,7.51
+372,149,3,45949,card,in-store,,,33,14.33
+373,,1,45945,card,in-store,WELCOME5,,,9.89
+374,98,10,45902,mobile,app,,,,4.07
+375,,10,45914,mobile,app,,,,14.57
+376,112,12,45951,cash,app,WELCOME5,,,8.97
+377,,4,45937,card,in-store,,,,11.8
+378,87,10,45927,mobile,in-store,,Morning Boost,146,12.34
+379,125,11,45917,cash,in-store,,,54,20.3
+380,129,3,45946,mobile,in-store,,Fall Promo,,5.64
+381,,5,45905,cash,in-store,,,,5.1
+382,60,7,45952,cash,in-store,,,,12.84
+383,3,5,45910,card,app,,Fall Promo,,11.5
+384,,10,45925,mobile,in-store,,Morning Boost,,9.77
+385,15,8,45951,cash,in-store,,Welcome Week 2025,133,16.78
+386,2,12,45949,cash,in-store,,,,14.18
+387,102,3,45949,mobile,in-store,,Morning Boost,39,21.81
+388,53,2,45945,card,in-store,,,,15.07
+389,112,11,45951,card,in-store,,Fall Promo,,12.49
+390,89,12,45931,card,in-store,,,,19.78
+391,,12,45931,cash,in-store,,,,13.07
+392,,12,45942,card,in-store,,,34,7.88
+393,83,1,45920,card,app,,,,15.22
+394,,6,45908,card,in-store,,,,13.92
+395,54,6,45909,mobile,in-store,,,30,12.37
+396,,10,45904,card,in-store,,Morning Boost,,18.87
+397,92,8,45932,cash,in-store,,,,17.3
+398,138,7,45904,mobile,app,,,,7.05
+399,35,12,45935,card,in-store,,,,18.29
+400,65,1,45916,card,in-store,,,,14.18
